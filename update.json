@@ -1,12 +1,13 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "channel": "beta",
   "required": false,
   "published_at": "2026-09-22",
-  "download_url": "https://github.com/ammorioffacial/amari-updates/releases/download/v0.9.0-beta/Amari_Setup_0.9.0_Beta.exe",
-  "sha256": "e543f88c77c211999c71ceb03d3d510e666b05287814b9ba8201a26d1e2d294d",
-  "size": 40986027,
+  "download_url": "https://github.com/ammorioffacial/amari-updates/releases/download/v0.9.1-beta/Amari_Setup_0.9.1_Beta.exe",
+  "sha256": "ad521f7b2f081f3f2d0d38207cafa50cd003953a672758d9346a7e806ef0e3e0",
+  "size": 40994260,
   "notes": [
-    "الإصدار التجريبي الأول من عماري"
+    "اختبار نظام التحديث عبر الإنترنت",
+    "تحسينات داخلية للاستقرار"
   ]
 }
